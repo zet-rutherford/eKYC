@@ -1,9 +1,9 @@
 ## Website for Recognizing and Extracting Information from Vietnamese Identity Cards
-In this project, i build models using YOLOv8 for detection and TransformerOCR for information extraction. Additionally, we apply image alignment and preprocessing techniques to improve the accuracy of detection and extraction. Finally, we develop a website using Flask and ngrok for end-users to utilize the extraction functionality.
+In this project, i build models using YOLOv8 for detection and SVTR OCR for information extraction. Additionally, we apply image alignment and preprocessing techniques to improve the accuracy of detection and extraction. Finally, we develop a website using Flask and ngrok for end-users to utilize the extraction functionality.
 Libraries Used
 
 * YOLOv8
-* VietOCR
+* SVTR OCR Model
 * Label Studio
 * Flask
 * pyngrok
